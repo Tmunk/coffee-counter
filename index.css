@@ -1,0 +1,76 @@
+body {
+    
+    
+    /* background-image: url("coffee.jpg"); */
+    font-family: Monospace, 'Lucida Console';
+    font-weight: bold;
+    text-align: center;
+    background-color:rgb(215, 191, 143);
+    height: 100vh;
+    
+    
+}
+
+.coffee-container {
+    margin-top: 3vh;
+    max-height: 500px;
+
+}
+
+#coffee-pic {
+    height:auto;
+    
+    max-width: 100%;
+    
+}
+
+
+.container {
+    background: rgb(255, 255, 255);
+    max-width: 80%;
+    max-height: 50%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+   
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:rgb(0, 0, 0)
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:rgb(0, 0, 0)
+}
+
+button {
+    border: 1px solic black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+p {
+    color:rgb(0, 0, 0)
+}
+
+#increment-btn {
+    background: rgb(170, 103, 15);
+}
+
+#save-btn {
+    background: rgb(140, 139, 130);
+}
+
+#save-el {
+    font-weight: bold;
+}
